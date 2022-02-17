@@ -1,4 +1,4 @@
-### Hello everyone 👋
+# Hello everyone 👋
 
 ## My name is Sebastian Lugo 🍃
 ## Systems and computer engineering 👨‍💻
