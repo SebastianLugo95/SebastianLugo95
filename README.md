@@ -1,11 +1,11 @@
 # Hello everyone 👋
----
+
 ## My name is Sebastian Lugo 🍃 
 
 * Systems and computer engineering 👨‍💻 
 * Armenia - Quindío 🟡🟡🔵🔴 
 * Chill Gaming LoFi Beats 🎧
----
+
 ## Social Media
 
 * [YouTube](https://www.youtube.com/channel/UCVgd_ovqZO1CP_ayMAv67-g)
