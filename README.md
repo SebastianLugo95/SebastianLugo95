@@ -10,7 +10,6 @@
 
 * [YouTube](https://www.youtube.com/channel/UCVgd_ovqZO1CP_ayMAv67-g)
 * [Twitter](https://twitter.com/sebastianlugo95) 
-* [Twitch](https://www.twitch.tv/skorplex901) 
 <!--
 **SebastianLugo95/SebastianLugo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
