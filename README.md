@@ -12,9 +12,7 @@ Back-end Junior | Java | Spring Boot | API Rest | Linux | AWS | Docker
 * 🧠  I'm learning Cloud Computing
 * ⚡  Good English Skills
 
-<a href="https://www.twitter.com/sebastianlugo95" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sebastianlugo95?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/SebastianLugo95" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/SebastianLugo95" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SebastianLugo95?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 ### Skills
