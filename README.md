@@ -8,7 +8,6 @@ I am a student of systems and computer engineering at the University of Quindio.
 Back-end Junior | Java | Spring Boot | API Rest | Linux | AWS | Docker
 
 * 🌍  Armenia - Quindío - Colombia
-* ✉️  You can contact me at [lugomateussebastian@hotmail.com](mailto:sebastian.lugom@uqvirtual.edu.co)
 * 🧠  I'm learning Cloud Computing
 * ⚡  Good English Skills
 
